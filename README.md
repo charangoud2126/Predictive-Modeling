@@ -33,7 +33,11 @@ Important Note
 The following questions need to be answered as a part of the EDA section of the project:
 
 What does the distribution of content views look like?
+
 What does the distribution of genres look like?
+
 The day of the week on which content is released generally plays a key role in the viewership. How does the viewership vary with the day of release?
+
 How does the viewership vary with the season of release?
+
 What is the correlation between trailer views and content views?
